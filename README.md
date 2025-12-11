@@ -40,7 +40,7 @@ task-manager/
 
 ## 👨‍💻 Auteur
 
-Votre Nom - Cours Git @ Collège Maisonneuve
+Jean-Simon Cyr - Cours Git @ Collège Maisonneuve
 
 ## 📄 Licence
 
